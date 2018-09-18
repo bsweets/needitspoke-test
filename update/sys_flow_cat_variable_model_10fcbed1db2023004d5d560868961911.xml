@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>14fcbed1db2023004d5d560868961910</id>
+        <name>Test Deck</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-14 02:05:27</sys_created_on>
+        <sys_id>10fcbed1db2023004d5d560868961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Deck</sys_name>
+        <sys_package display_value="Deck of Cards Spoke" source="x_265424_deck_of_c">25d9be51db2023004d5d560868961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Deck of Cards Spoke">25d9be51db2023004d5d560868961983</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_10fcbed1db2023004d5d560868961911</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-14 02:05:27</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
